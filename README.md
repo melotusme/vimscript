@@ -1,6 +1,6 @@
 # 一个帮助写 protobuf 的vim 插件
 一图胜千言
-![alt](https://github.com/melotusme/vimscript/raw/master/src/protobuf.gif)
+![alt](https://github.com/melotusme/vimscript/blob/master/protobuf.gif)
 
 
 

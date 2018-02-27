@@ -4,6 +4,17 @@
 ![alt](https://github.com/melotusme/vimscript/blob/master/protobuf.gif)
 
 
+### prerequisite
+需要你的 vim 开启python 的支持
+
+如何查看当前 vim 是否支持python？
+
+在vim中输入
+```
+:version
+```
+
+查看是否有python feature
 ### install
 
 在bash及与之兼容终端中
